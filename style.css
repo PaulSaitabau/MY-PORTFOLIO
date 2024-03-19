@@ -1,0 +1,52 @@
+css
+
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      background-color: rgb(0, 247, 255);
+       color: black;
+      }
+
+      h1,h2{
+        color: blue;
+        }
+        p {
+             font-size: medium;
+             line-height: normal;
+        }
+
+        ul {
+            list-style-type: lower-alpha;
+            padding: 5cm;
+            }
+
+            img {max-width: 9cm;
+            height: min-content;
+            display: flexbox;
+            margin: auto;
+            }
+        ::content {
+            max-width: max-content;
+            margin: auto;
+            padding: 0cap;
+           }
+
+           .highlight {
+            background-color: aqua;
+            padding: 5cm;
+            border-radius: 0cqi;
+           }
+
+            #about-me {
+                text-align: justify;
+            }
+            #hobbies {
+                margin-top: 0cqmax;
+                margin-bottom: 0ch;
+            }
+            #spirit-animal{
+                margin-top: 2ch;
+                lighting-color: beige;
+                align-self: left;
+            }
+            #image{
+                text-align: left;
+            }
